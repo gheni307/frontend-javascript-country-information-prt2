@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 64px 16px;
+}
+
+#flag{
+    width: 40px;
+    height: 40px;
+    margin-bottom: -10px;
+}
+
+#information{
+    width: 550px;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 1px 10px 10px rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+#border{
+    border-bottom: 1px solid lightpink;
+}
+
+.submit{
+    margin-left: -6px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    background-color: lightgreen;
+}
+
+#inputText{
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+    width: 200px;
+}
+/*# sourceMappingURL=countrySearcher.c843ab6b.css.map */
